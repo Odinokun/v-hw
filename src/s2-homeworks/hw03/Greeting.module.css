@@ -7,6 +7,7 @@
 }
 
 .error {
+  padding-top: 8px;
   color: #e22a2a;
 }
 
@@ -55,8 +56,10 @@
 
 .text {
   margin-top: 12px;
+  margin-bottom: 24px;
   color: #333;
   font-size: 16px;
+  font-weight: 500;
 }
 
 .greeting {
