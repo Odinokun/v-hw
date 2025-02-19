@@ -21,7 +21,8 @@ code {
 #hw2,
 #hw3,
 #hw4,
-#hw6 {
+#hw6,
+#hw7 {
   margin-bottom: 30px;
   padding: 30px 70px;
   border-bottom: 1px solid #e0e0e0;
@@ -31,7 +32,8 @@ code {
 #hw2 > div:first-of-type,
 #hw3 > div:first-of-type,
 #hw4 > div:first-of-type,
-#hw6 > div:first-of-type {
+#hw6 > div:first-of-type,
+#hw7 > div:first-of-type {
   margin-bottom: 40px;
   font-size: 24px;
   font-weight: 600;

@@ -1,15 +1,16 @@
 .radio {
-}
-
-.radio::before {
-}
-
-
-.radio:checked::before {
+  position: relative;
+  margin-right: 4px;
+  border: 1px solid #000;
+  border-radius: 50%;
 }
 
 .label {
+  margin-bottom: 8px;
 }
 
 .options {
+  display: flex;
+  flex-direction: column;
+  padding-left: 24px;
 }
